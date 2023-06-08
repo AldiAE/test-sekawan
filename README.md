@@ -11,7 +11,7 @@
                      - atau bisa di cek di table sql user untuk role selain admin, untuk passwordnya sama dengan username nya
   
  - Database Version
- Mysql versi 15.1
+ Server version: 10.6.12-MariaDB-0ubuntu0.22.04.1 Ubuntu 22.04
  
  - PHP Version
  PHP versi 8.2.6
